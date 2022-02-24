@@ -47,7 +47,7 @@ My Library(仮)
 --
 
 # 実装予定の機能
-[![Image from Gyazo](https://gyazo.com/90b290d62e54b3075172ae8d5924689c)]
+[![Image from Gyazo](https://i.gyazo.com/90b290d62e54b3075172ae8d5924689c.png)](https://gyazo.com/90b290d62e54b3075172ae8d5924689c)
 # データベース設計
 ![ER図](database-ER.drawio.svg)
 # 画面遷移図
